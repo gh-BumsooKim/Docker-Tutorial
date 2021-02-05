@@ -1,5 +1,15 @@
 # How To Easily Release Development Environment using Doker Image and Kubernetes on Ubuntu 20.4 LTS
 
+Linux Version Check
+```bash
+$ uname -r
+```
+
+Install Docker with Linux
+```bash
+$ docker info
+$ docker -v
+```
 
 <!--
 ## Introduction
