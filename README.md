@@ -7,6 +7,9 @@ $ uname -r
 
 Install Docker with Linux
 ```bash
+$ wget -qO- get.docker.com | sh
+$ sudo reboot
+
 $ docker info
 $ docker -v
 ```
