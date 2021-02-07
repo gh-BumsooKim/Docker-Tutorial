@@ -14,6 +14,16 @@ $ docker info
 $ docker -v
 ```
 
+Download Docker Image (Run, Pull)
+```bash
+$ docker run -i -t ubuntu:14.04
+root@[16bit]:/# exit
+
+$ docker pull -i -t sentos:7
+$ docker images
+$ docker ps -a
+```
+
 <!--
 ## Introduction
 
